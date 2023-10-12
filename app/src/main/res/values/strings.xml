@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LabAppBars</string>
+    <string name="publicar">Reportar Incidente</string>
+    <string name="aplicar">Aprobar Reporte</string>
+</resources>
